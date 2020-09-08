@@ -1,0 +1,196 @@
+<keymap version="1" name="shkstart" parent="Eclipse">
+  <action id="$EditorTranslateAction" />
+  <action id="AddToFavorites">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangeSignature" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="ClassNameCompletion" />
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="CloseAllToTheLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="CloseAllToTheRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CodotaJavaScriptSearch" />
+  <action id="CodotaLeanSearchCrossRefAction" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Close" />
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="DumpLookupElementWeights" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="EvaluateExpression" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceFunctionalVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="MavenHelper.QuickRunMavenGoal" />
+  <action id="MavenHelper.QuickRunRootMavenGoal" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="OpenCodotaSearch">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="OpenElementInNewWindow">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="QuickActionPopup" />
+  <action id="QuickChangeScheme" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAll" />
+  <action id="Scala.Desugar" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="ShowUmlDiagram">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="ViewSource" />
+  <action id="context.save" />
+</keymap>

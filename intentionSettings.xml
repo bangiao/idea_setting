@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Android/Insert App Indexing API Code" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language injection/编辑注入的片段" />
+    <ignoreAction name="Markdown/HTML/Change Markdown to HTML" />
+  </component>
+</application>

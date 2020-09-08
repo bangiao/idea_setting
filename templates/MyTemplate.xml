@@ -1,0 +1,204 @@
+<templateSet group="MyTemplate">
+  <template name="s--" value="System.out.println(&quot;---------------------------------------------------------------&quot;);" description="打印区分行" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/--" value="/*****************************************************************&#10; *                                                               *&#10; *                                                               *&#10; *                                                               *&#10; *****************************************************************/" description="注解区分行" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void test$blockName$() throws Exception {&#10;    $END$&#10;}" description="打印test语句" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="异常打印" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mvcf" value="@RequestMapping(&quot;$blockName1$&quot;)&#10;@ResponseBody&#10;public $blockName3$ $blockName2$($blockName4$) {$END$&#10;    return $blockName5$;&#10;}" description="springMVC controller方法" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="vue" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;title&gt;Title&lt;/title&gt;&#10;    &lt;script src=&quot;$blockName1$&quot;&gt;&lt;/script&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;div id=&quot;app&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;&#10;&lt;script&gt;&#10;    var vm = new Vue({&#10;        el: &quot;#app&quot;,&#10;        data: {&#10;&#10;        },&#10;        methods: {&#10;            &#10;        }&#10;    });&#10;&lt;/script&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="显示vue模版" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="serr" value="System.err.println($END$);" description="err输入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sout" value="System.out.println($END$);" description="打印输出" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="to" value="// TODO zhengwei $blockName$" description="todo" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psvm" value="public static void main(String[] args) throws Exception {&#10;&#9;$END$&#10;}" description="main" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifn" value="if ($VAR$ == null) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="inn" value="if ($VAR$ != null) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryf" value="try {&#10;    $END$&#10;} finally {&#10;    $blockName$&#10;}" description="异常使用finally" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycf" value="try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;    $blockName$&#10;}" description="trycatchfinally" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psi" value="private static Integer " description="private static Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pss" value="private static String " description="private static String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pso" value="private static Object " description="private static Object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psd" value="private static Double " description="private static Double" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psc" value="private static Character " description="private static Character" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pubf" value="public $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加公开函数" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prif" value="private $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加私有方法" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prof" value="protected $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加保护方法" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pubsf" value="public static $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加静态公开函数" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prosf" value="protected static $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加静态保护方法" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prisf" value="private static $blockName0$($blockName1$) {$END$&#10;&#9;return $blockName2$;&#10;}" description="添加静态私有方法" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blockName2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psb" value="private static Boolean " description="private static Boolean" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="po" value="private Object " description="private Object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pb" value="private Boolean " description="private Boolean" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="private Character " description="private Character" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="private Double " description="private Double" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private Integer " description="private Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) throws Exception {&#10;&#9;$END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycc" value="try ($blockName0$) {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="blockName0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

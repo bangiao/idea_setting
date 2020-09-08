@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE 和插件更新" displayType="NONE" shouldLog="false" />
+    <notification groupId="io.zhile.research.ide-eval-resetter" displayType="NONE" />
+  </component>
+</application>

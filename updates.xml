@@ -1,0 +1,55 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="201.7846.53" />
+      <item value="201.7846.29" />
+      <item value="201.7846.6" />
+      <item value="202.4357.23" />
+      <item value="201.7846.76" />
+      <item value="202.5103.13" />
+      <item value="emulator#30.0.16" />
+      <item value="platform-tools#30.0.2" />
+      <item value="202.5428.22" />
+      <item value="emulator#30.0.17" />
+      <item value="202.5792.28" />
+      <item value="emulator#30.0.18" />
+      <item value="platform-tools#30.0.3" />
+      <item value="201.8538.6" />
+      <item value="202.5958.24" />
+      <item value="201.8538.17" />
+      <item value="202.6109.22" />
+      <item value="emulator#30.0.19" />
+      <item value="emulator#30.0.20" />
+      <item value="201.8538.31" />
+      <item value="201.8743.1" />
+      <item value="202.6397.20" />
+      <item value="202.6250.13" />
+      <item value="emulator#30.0.22" />
+      <item value="201.8743.12" />
+      <item value="202.6397.59" />
+      <item value="emulator#30.0.23" />
+      <item value="202.6397.94" />
+      <item value="platform-tools#30.0.4" />
+      <item value="emulator#30.0.24" />
+      <item value="platforms;android-29#5" />
+      <item value="202.6948.69" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-201.8743.12" />
+    <option name="LAST_TIME_CHECKED" value="1599587010636" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/eap/org.jetbrains.kotlin" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

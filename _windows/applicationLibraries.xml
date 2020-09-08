@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="libs">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-8.0.17-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/c3p0-0.9.5.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

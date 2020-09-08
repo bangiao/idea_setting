@@ -1,0 +1,13 @@
+<templateSet group="LY">
+  <template name="swii" value="switch () {&#10;    case value:&#10;&#10;        break;&#10;&#10;    default:&#10;        break;&#10;}" description="自动补全 switch case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryi" value="try {&#10;&#10;} catch (Exception e) {&#10;    throw new RuntimeException(e);&#10;}" description="自动添加try catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lgd" value="Logg.d(TAG,&quot;&quot;);" description="打印log" toReformat="false" toShortenFQNames="true" />
+</templateSet>

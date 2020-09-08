@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Ensures that loads before the fence will not be reordered with loads and stores after the fence; a &quot;LoadLoad plus LoadStore barrier&quot;. Corresponds to C11 atomic_thread_fence(memory_order_acquire) (an &quot;acquire fence&quot;). A pure LoadLoad fence is not provided, since the addition of LoadStore is almost always desired, and most current hardware instructions that provide a LoadLoad barrier also provide a LoadStore barrier for free." />
+      <item value="load Fence" />
+      <item value="expect" />
+      <item value="希望" />
+      <item value="was Uncontended" />
+      <item value="collide" />
+      <item value="Spinlock (locked via CAS) used when resizing and/or creating Cells." />
+      <item value="True if last slot nonempty" />
+      <item value="acquire Queued" />
+      <item value="PROPAGATE" />
+      <item value="has Queued Predecessors" />
+      <item value="try Acquire" />
+      <item value="The thread that enqueued this node. Initialized on * construction and nulled out after use." />
+      <item value="exclusive Owner Thread" />
+      <item value="get All Insert Sql Column Maybe If" />
+      <item value="Injector" />
+      <item value="Repeatable" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="22" />
+      </map>
+    </option>
+  </component>
+</application>
