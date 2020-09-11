@@ -4,7 +4,7 @@
     <property name="created">2019-11-20T21:05:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-09-07T15:32:45</property>
+    <property name="modified">2020-09-11T12:50:48</property>
     <property name="originalScheme">_@user_Roboticket Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
