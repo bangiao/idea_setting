@@ -1,6 +1,7 @@
 <application>
   <component name="EasyCodeSetting">
-    <option name="currTemplateGroupName" value="Mapper_Mybatis" />
+    <option name="author" value="zhazha" />
+    <option name="currTemplateGroupName" value="MybatisPlus" />
     <option name="templateGroupMap">
       <map>
         <entry key="Default">
@@ -175,7 +176,7 @@
                   </TypeMapper>
                   <TypeMapper>
                     <option name="columnType" value="double" />
-                    <option name="javaType" value="java.lang.Object" />
+                    <option name="javaType" value="java.lang.Double" />
                   </TypeMapper>
                 </list>
               </option>
