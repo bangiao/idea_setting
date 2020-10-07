@@ -5,6 +5,7 @@
         <option name="foldGeneratedMethod" value="true" />
         <option name="generateWithIfTest" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
