@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Translet Class Loader" />
       <item value="clean Some Slots" />
       <item value="do Privileged" />
       <item value="Ensures that loads before the fence will not be reordered with loads and stores after the fence; a &quot;LoadLoad plus LoadStore barrier&quot;. Corresponds to C11 atomic_thread_fence(memory_order_acquire) (an &quot;acquire fence&quot;). A pure LoadLoad fence is not provided, since the addition of LoadStore is almost always desired, and most current hardware instructions that provide a LoadLoad barrier also provide a LoadStore barrier for free." />
@@ -23,9 +24,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>

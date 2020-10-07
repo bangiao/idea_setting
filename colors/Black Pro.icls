@@ -4,17 +4,17 @@
     <property name="created">2020-04-02T14:00:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.6.0.0</property>
-    <property name="modified">2020-09-08T17:37:14</property>
+    <property name="modified">2020-09-24T21:48:37</property>
     <property name="originalScheme">Black copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />

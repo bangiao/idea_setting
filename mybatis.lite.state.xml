@@ -1,0 +1,15 @@
+<application>
+  <component name="MybatisLiteSettings">
+    <option name="map">
+      <map>
+        <entry key="DEFAULT_DELETE_PATTEN" value="del,cancel,delete,drop" />
+        <entry key="DEFAULT_INSERT_PATTEN" value="insert,add,new,batch,batchInsert,insertBatch" />
+        <entry key="DEFAULT_SELECT_PATTEN" value="select,get,look,find,list,search,count,query" />
+        <entry key="DEFAULT_UPDATE_PATTEN" value="update,modify,set" />
+        <entry key="NAVIGATION_OPEN_STATUS" value="1" />
+        <entry key="SQL_FIELD_STATUS" value="1" />
+        <entry key="SQL_PRINT_STATUS" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
