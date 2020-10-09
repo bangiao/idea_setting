@@ -21,7 +21,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="compiler.document.save.trigger.delay" value="100" />
     <entry key="compiler.automake.trigger.delay" value="100" />
-    <entry key="compiler.document.save.enabled" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
