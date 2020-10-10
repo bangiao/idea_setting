@@ -20,6 +20,7 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="compiler.document.save.trigger.delay" value="1000" />
+    <entry key="compiler.document.save.enabled" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
