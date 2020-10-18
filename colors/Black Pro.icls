@@ -4,7 +4,7 @@
     <property name="created">2020-04-02T14:00:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.6.0.0</property>
-    <property name="modified">2020-09-24T21:48:37</property>
+    <property name="modified">2020-10-13T18:34:18</property>
     <property name="originalScheme">Black copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -36,7 +36,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5cffe2" />
+        <option name="FOREGROUND" value="3ce3ca" />
         <option name="EFFECT_COLOR" value="5cffe2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -54,13 +54,13 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5cffe2" />
+        <option name="FOREGROUND" value="3ce3ca" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5cffe2" />
+        <option name="FOREGROUND" value="3ce3ca" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -76,7 +76,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="5cffe2" />
+        <option name="FOREGROUND" value="3ce3ca" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -40447,7 +40447,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dfdfdf" />
-        <option name="BACKGROUND" value="2733" />
+        <option name="BACKGROUND" value="1d2021" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -40460,7 +40460,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5cffe2" />
+        <option name="FOREGROUND" value="3ce3ca" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">

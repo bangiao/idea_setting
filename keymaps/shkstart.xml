@@ -185,6 +185,9 @@
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Unwrap" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.ShowMessageHistory">
