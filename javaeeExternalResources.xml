@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://mybatis.org/schema/mybatis-spring-1.2.xsd" location="D:/repository/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/config/mybatis-spring-1.2.xsd" />
     <resource url="http://mybatis.org/schema/mybatis-spring.xsd" location="D:/repository/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/config/mybatis-spring-1.2.xsd" />
     <resource url="http://soap.sforce.com/2006/04/metadata" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
