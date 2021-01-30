@@ -19,6 +19,7 @@
     <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="scala.references.names.hint" value="true" />
     <option id="sql.show.column.names.in.insert.values" value="true" />
+    <option id="java.clear.expression.type" value="true" />
     <option id="js.only.show.names.for.all.args" value="true" />
     <option id="SHOW_SUSPENDING_CALL" value="true" />
     <option id="java.build.like.method" value="true" />
