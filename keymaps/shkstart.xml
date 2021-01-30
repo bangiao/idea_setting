@@ -129,9 +129,7 @@
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
-  <action id="OpenCodotaSearch">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
+  <action id="OpenCodotaSearch" />
   <action id="OpenElementInNewWindow">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
