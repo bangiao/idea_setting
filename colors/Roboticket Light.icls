@@ -4,7 +4,7 @@
     <property name="created">2019-11-20T21:05:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-09-12T17:19:07</property>
+    <property name="modified">2021-01-30T22:00:01</property>
     <property name="originalScheme">_@user_Roboticket Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -55,7 +55,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc9393" />
+        <option name="FOREGROUND" value="858500" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="cc9393" />
         <option name="EFFECT_TYPE" value="1" />
