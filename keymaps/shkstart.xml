@@ -1,5 +1,8 @@
 <keymap version="1" name="shkstart" parent="Eclipse">
+  <action id="$ChooseTranslatorAction" />
   <action id="$EditorTranslateAction" />
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction" />
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -33,6 +36,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CodeGlance2.toggle" />
   <action id="CodotaJavaScriptSearch" />
   <action id="CodotaLeanSearchCrossRefAction" />
   <action id="CollapseAllRegions">
