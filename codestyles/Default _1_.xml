@@ -37,6 +37,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="VAR_DECLARATION_WRAP" value="5" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
       <value />
