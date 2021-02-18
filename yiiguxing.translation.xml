@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Container annotation that aggregates several PropertySource annotations.&#10;Can be used natively, declaring several nested PropertySource annotations. Can also be used in conjunction with Java 8's support for repeatable annotations, where PropertySource can simply be declared several times on the same type, implicitly generating this container annotation." />
       <item value="get Authentication" />
       <item value="get Principal" />
       <item value="dot To Back Slash" />
@@ -34,9 +35,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612015898927" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1613647685078" />
   </component>
 </application>
