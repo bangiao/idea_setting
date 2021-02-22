@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dependency Comparator" />
+      <item value="Annotation Aware Order Comparator" />
+      <item value="set Dependency Comparator" />
+      <item value="Context Annotation Autowire Candidate Resolver" />
+      <item value="Persistence Annotation Bean Post Processor" />
+      <item value="Check for JSR-250 support, and if present add the CommonAnnotationBeanPostProcessor." />
+      <item value="Common Annotation Bean Post Processor" />
+      <item value="CONFIGURATION ANNOTATION PROCESSOR BEAN NAME" />
       <item value="unwrap Default Listable Bean Factory" />
       <item value="relevant" />
       <item value="get Or Create Environment" />
@@ -34,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
