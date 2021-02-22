@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
+      <item value="e.g. was ROLE_APPLICATION, now overriding with ROLE_SUPPORT or ROLE_INFRASTRUCTURE" />
+      <item value="is Allow Bean Definition Overriding" />
       <item value="apply Scoped Proxy Mode" />
       <item value="get Dependency Comparator" />
       <item value="Annotation Aware Order Comparator" />
@@ -43,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
