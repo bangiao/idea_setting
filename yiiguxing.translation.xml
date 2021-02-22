@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unwrap Default Listable Bean Factory" />
       <item value="relevant" />
       <item value="get Or Create Environment" />
       <item value="preempting" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
