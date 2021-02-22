@@ -15,7 +15,7 @@
         <entry key="ModelDependenciesLineMarkerProviderJava" value="true" />
         <entry key="ModelDependenciesLineMarkerProviderXml" value="true" />
         <entry key="RSOpenInHttpClientLineMarkerProvider" value="true" />
-        <entry key="RenderedDoc" value="true" />
+        <entry key="RenderedDoc" value="false" />
         <entry key="RetrofitOpenInHttpClientLineMarkerProvider" value="true" />
         <entry key="SpringAopAnnotator" value="true" />
         <entry key="SpringAutowiredAnnotator" value="true" />
