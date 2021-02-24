@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="483" />
     <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="Cyclic Barrier Scenario Demo" />
+      <item value="A synchronization aid that allows a set of threads to all wait for each other to reach a common barrier point." />
       <item value="递减" />
       <item value="di'jian" />
       <item value="资源" />
@@ -52,13 +54,11 @@
       <item value="was Uncontended" />
       <item value="collide" />
       <item value="Spinlock (locked via CAS) used when resizing and/or creating Cells." />
-      <item value="True if last slot nonempty" />
-      <item value="acquire Queued" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
