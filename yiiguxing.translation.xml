@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="candidate" />
+      <item value="considered" />
+      <item value="Determine whether the provided bean definition is an autowire candidate." />
+      <item value="Determine" />
+      <item value="qualifier" />
+      <item value="factory" />
       <item value="Detector" />
       <item value="Application Listener Detector" />
       <item value="configuration Frozen" />
@@ -45,18 +51,15 @@
       <item value="try Acquire" />
       <item value="The thread that enqueued this node. Initialized on * construction and nulled out after use." />
       <item value="exclusive Owner Thread" />
-      <item value="get All Insert Sql Column Maybe If" />
-      <item value="Injector" />
-      <item value="Repeatable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613647685078" />
+    <option name="lastTrimTime" value="1614136125899" />
   </component>
 </application>
