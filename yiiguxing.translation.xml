@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="483" />
     <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="serializer" />
+      <item value="account No" />
+      <item value="amount" />
+      <item value="subtract Account Balance" />
       <item value="Cyclic Barrier Scenario Demo" />
       <item value="A synchronization aid that allows a set of threads to all wait for each other to reach a common barrier point." />
       <item value="递减" />
@@ -50,15 +54,11 @@
       <item value="Ensures that loads before the fence will not be reordered with loads and stores after the fence; a &quot;LoadLoad plus LoadStore barrier&quot;. Corresponds to C11 atomic_thread_fence(memory_order_acquire) (an &quot;acquire fence&quot;). A pure LoadLoad fence is not provided, since the addition of LoadStore is almost always desired, and most current hardware instructions that provide a LoadLoad barrier also provide a LoadStore barrier for free." />
       <item value="load Fence" />
       <item value="expect" />
-      <item value="希望" />
-      <item value="was Uncontended" />
-      <item value="collide" />
-      <item value="Spinlock (locked via CAS) used when resizing and/or creating Cells." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
